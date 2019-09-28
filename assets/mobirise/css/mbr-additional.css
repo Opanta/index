@@ -1413,11 +1413,6 @@ body {
   background: #ff3366 !important;
   box-shadow: none !important;
 }
-.cid-rqgCTIwgx0 {
-  padding-top: 75px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
 .cid-rqgCTIwgx0 .form-control,
 .cid-rqgCTIwgx0 .form-control:focus {
   background: #ffffff;
@@ -1445,42 +1440,6 @@ body {
 .cid-rqgCTIwgx0 .mbr-text,
 .cid-rqgCTIwgx0 .mbr-section-btn {
   text-align: left;
-}
-.cid-rByumHzQ7o {
-  background: #cccccc;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rByumHzQ7o .image-block {
-  margin: auto;
-}
-.cid-rByumHzQ7o figcaption {
-  position: relative;
-}
-.cid-rByumHzQ7o figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rByumHzQ7o .image-block {
-    width: 100% !important;
-  }
-}
-.cid-rByuwZpXRz {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #cccccc;
-}
-.cid-rByuwZpXRz .mbr-text,
-.cid-rByuwZpXRz blockquote {
-  color: #767676;
-}
-.cid-rByuwZpXRz .mbr-text P {
-  text-align: left;
-}
-.cid-rByuwZpXRz .mbr-text {
-  color: #232323;
 }
 .cid-rwETeSKUdf {
   padding-top: 75px;
