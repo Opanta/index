@@ -1,4 +1,4 @@
-Kiitos asiakkailemme, toiminta on päättynyt.
+Kiitos asiakkaillemme, toiminta on päättynyt.
 
 
 													
